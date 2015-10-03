@@ -271,11 +271,11 @@ hr {
 	{
 		overflow: hidden;
 		max-height: 400px;
-		background: url("images/talentos.jpg") no-repeat;
+		background: url("images/principal_1.jpg") no-repeat;
 		background-size: 100%;
 		text-align: center;
 		color: #fff;
-		padding: 10% 0;
+		padding: 20% 0;
         background-attachment: fixed; 
         height: auto;
         box-shadow: 0 0 1px rgba(0, 0, 0, .8);
