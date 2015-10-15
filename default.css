@@ -202,7 +202,9 @@ hr {
 /** WRAPPER */
 
 #wrapper {
-	background: #FFFFFF url(images/bg01.png) repeat;
+	background: #eee url(images/bg01.png) repeat;
+    position:relative;
+    z-index: -9999;
 }
 
 #footer-wrapper
@@ -213,6 +215,8 @@ hr {
 .container {
 	max-width: 1200px;
 	margin: 0px auto;
+    position:relative;
+    z-index: 1;
 }
 
 .clearfix {
@@ -282,7 +286,8 @@ hr {
 	}
 	
 #arrow {
-    text-align:center;   
+    text-align:center;  
+    background-color:#fff;
 }
 
 	#banner .image
@@ -353,6 +358,8 @@ hr {
 	position: relative;
 	overflow: hidden;
 	padding: 4em 0em 4em 2em;
+    position:relative;
+    z-index:1;
 }
 
 /** CONTENT */
@@ -362,6 +369,8 @@ hr {
 	float: left;
 	max-width: 790px;
     border-right: #cbcbcb 1px solid;
+    margin-right:10px;
+    padding-right:10px;
 }
 
 /*********************************************************************************/
@@ -370,10 +379,9 @@ hr {
 
 	#sidebar
 	{
-		min-width: 400px;
+        min-width: 400px;
         text-align: center;
-        padding-left:20px
-        
+        padding-left:20px;   
 	}
 	
 	#sidebar .title h2
