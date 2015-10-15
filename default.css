@@ -31,6 +31,7 @@ strong {
 
 a {
 	color: #a7002c;
+    text-decoration: none;
 }
 
 a:hover {
@@ -114,7 +115,7 @@ hr {
 	
 	ul.style2 li
 	{
-		border-top: solid 1px #E5E5E5;
+		border-top: solid 0px #E5E5E5;
 		padding: 0.80em 0;
 	}
 	
@@ -237,10 +238,8 @@ hr {
 
 	#logo 
 	{
-		width: 50px;
-		max-height: 50px;
 		margin: 0 auto;
-		padding: 0.2em 0em;
+		padding: 0.2em;
 		text-transform: uppercase;
 		background-color: #fff;
 	}
@@ -271,18 +270,21 @@ hr {
 	{
 		overflow: hidden;
 		max-height: 400px;
-		background: url("images/principal_1.jpg") no-repeat;
+		background: url("images/talentos.jpg") no-repeat;
 		background-size: 100%;
 		text-align: center;
 		color: #fff;
-		padding: 20% 0;
-        background-attachment: fixed; 
-        height: auto;
-        box-shadow: 0 0 1px rgba(0, 0, 0, .8);
+		padding: 17% 0;
+        background-attachment:; 
+        box-shadow: 0 0 0px rgba(0, 0, 0, .8);
         margin: 0 auto;
         /* TIRE A MARGEM DE CIMA PARA COLOCAR UM PANO DE FUNDO NO MENU */
 	}
 	
+#arrow {
+    text-align:center;   
+}
+
 	#banner .image
 	{
 	}
@@ -359,6 +361,7 @@ hr {
 {
 	float: left;
 	max-width: 790px;
+    border-right: #cbcbcb 1px solid;
 }
 
 /*********************************************************************************/
@@ -367,8 +370,10 @@ hr {
 
 	#sidebar
 	{
-		float: right;
-		min-width: 345px;
+		min-width: 400px;
+        text-align: center;
+        padding-left:20px
+        
 	}
 	
 	#sidebar .title h2
@@ -533,23 +538,14 @@ hr {
 	{
 		float: left;
 		width: 354px;
-		margin-right: 24px;
-		padding-right: 30px;
+		padding: 0em 0em 0em 2em;
 	}
 	
 	#box2
 	{
-		float: left;
-		width: 354px;
-		margin-left: 24px;
-		padding-right: 30px;
-	}
-	
-	#box3
-	{
 		float: right;
-		width: 344px;
-		padding-left: 40px;
+		width: 354px;
+		padding: 0em 2em 0em 0em;
 	}
 
 
