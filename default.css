@@ -327,8 +327,9 @@ hr {
 	#sidebar
 	{
         min-width: 400px;
-        text-align: center;
-        padding-left:20px;   
+        text-align: left;
+        padding: 0 3% 0 0;
+        font-size: 16px;
 	}
 	
 	#sidebar .title h2
