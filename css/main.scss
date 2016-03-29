@@ -725,7 +725,7 @@ $baseurl: '{{ site.baseurl }}/images';
 		margin: 0 0 _size(element-margin) 0;
 	}
 
-/* Table */
+/* Table
 
 	.table-wrapper {
 		-webkit-overflow-scrolling: touch;
@@ -748,6 +748,7 @@ $baseurl: '{{ site.baseurl }}/images';
 			}
 		}
 
+/*
 		td {
 			padding: 0.75em 0.75em;
 		}
@@ -800,6 +801,8 @@ $baseurl: '{{ site.baseurl }}/images';
 			}
 		}
 	}
+
+	*/
 
 /* Button */
 
@@ -1166,6 +1169,8 @@ $baseurl: '{{ site.baseurl }}/images';
 
 		// Table
 
+		/*
+
 			table {
 				tbody {
 					tr {
@@ -1218,7 +1223,7 @@ $baseurl: '{{ site.baseurl }}/images';
 					background-color: _palette($p, border2-bg);
 				}
 			}
-
+*/
 		// Features
 
 			.features {
