@@ -8,8 +8,8 @@ description: |
 owner: Arena Jornalismo Esportivo # or company name
 first_published: 2016 # if migrating another site, the year of your first publish
 email: arenajornalismoesportivo@gmail.com
-baseurl: "http://arenajornalismoesportivo.com.br" # the subpath of your site, e.g. /blog
-url: "http://arenajornalismoesportivo.com.br"
+baseurl: # the subpath of your site, e.g. /blog
+url: "https://www.arenajornalismoesportivo.com.br"
 social:
   facebook-official: https://facebook.com/arenajornalismoesportivo
   email: arenajornalismoesportivo@gmail.com
