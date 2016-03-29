@@ -10,13 +10,13 @@
   <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Inscrições</title>
+  <title>Tutorial PayPal</title>
   <meta name="description" content="Curso de extensão em Jornalismo Esportivo<br>
 voltado para o mercado de trabalho -<br>
 seja na TV, no impresso ou nas assessorias
 ">
   <!--[if lte IE 8]><script src="/js/ie/html5shiv.js"></script><![endif]-->
-  <link rel="canonical" href="https://www.arenajornalismoesportivo.com.br/inscri%C3%A7%C3%B5es.html">
+  <link rel="canonical" href="https://www.arenajornalismoesportivo.com.br/Untitled">
   <link rel="stylesheet" href="/css/main.css" />
   <!--[if lte IE 8]><link rel="stylesheet" href="/css/ie8.css" /><![endif]-->
   <!--[if lte IE 9]><link rel="stylesheet" href="/css/ie9.css" /><![endif]-->
@@ -31,8 +31,8 @@ seja na TV, no impresso ou nas assessorias
 
       <!-- Header -->
 <header id="header">
-<!--<h1><a href="/index.html">Arena Jornalismo Esportivo</a></h1>
-  <img src="logo.png" width="120px">-->
+  <h1><a href="/index.html">Arena Jornalismo Esportivo</a></h1>
+  <!--<img src="logo.png" width="120px">-->
   <nav>
 <img src="logo.png" width="120px">
     <div style="float: left;">
@@ -40,11 +40,11 @@ seja na TV, no impresso ou nas assessorias
         <li><a href="index.html">Home</a></li>
         
         
+        <li><a href="/Untitled">Tutorial PayPal</a></li>
+        
+        
+        
         <li><a href="/curso.html">Curso 2.0</a></li>
-        
-        
-        
-        <li><a href="/depoimentos.html">Depoimentos</a></li>
         
         
         
@@ -62,18 +62,15 @@ seja na TV, no impresso ou nas assessorias
         
         
         
-        <li><a href="/sobre.html">A Arena</a></li>
-        
-        
-        
-        <li><a href="/tutorial.html">PayPal</a></li>
+        <li><a href="/sobre.html">Sobre a Arena</a></li>
         
         
       </ul>
 </nav>
 
+<!--
     <ul>
-      <li class="special" style="list-style-type: none;">
+      <li class="special">
         <a href="#menu" class="menuToggle"><span>Menu</span></a>
         <div id="menu">
           <ul>
@@ -83,11 +80,11 @@ seja na TV, no impresso ou nas assessorias
             <li><a href="index.html">Home</a></li>
             
             
+            <li><a href="/Untitled">Tutorial PayPal</a></li>
+            
+            
+            
             <li><a href="/curso.html">Curso 2.0</a></li>
-            
-            
-            
-            <li><a href="/depoimentos.html">Depoimentos</a></li>
             
             
             
@@ -105,11 +102,7 @@ seja na TV, no impresso ou nas assessorias
             
             
             
-            <li><a href="/sobre.html">A Arena</a></li>
-            
-            
-            
-            <li><a href="/tutorial.html">PayPal</a></li>
+            <li><a href="/sobre.html">Sobre a Arena</a></li>
             
             
             <!--
@@ -117,11 +110,11 @@ seja na TV, no impresso ou nas assessorias
             <li><a href="#">Log In</a></li>
             <li><a href="/feed.xml" class="icon fa-feed"> RSS Feed</a></li>
           -->
-          </ul>
+          <!-- </ul>
         </div>
       </li>
     </ul>
-  </nav>
+  </nav>  -->
 
 </header>
 
@@ -129,13 +122,20 @@ seja na TV, no impresso ou nas assessorias
       <article id="main">
 
   <header>
-    <h2>Inscrições</h2>
+    <h2>Tutorial PayPal</h2>
     <p>Absorva ideias e torna-se um dos melhores</p>
   </header>
 
   <section class="wrapper style5">
     <div class="inner">
-      <iframe src="https://docs.google.com/forms/d/1di2jHbVFYZyVzGG2hcHU5NZkdRaiXE3lUESfDXoJ8UQ/viewform?embedded=true" width="100%" height="2200" frameborder="0" marginheight="0" marginwidth="0" id="formulario">Carregando…</iframe>
+      ### O que é o Paypal:
+É uma maneira muito segura de fazer pagamentos em milhões de sites.
+Não importa onde você faz suas compras, o Paypal não compartilha seus dados financeiros com os sites. E mais: se comprou algo e o produto não chegou ou não é como o vendedor descreveu, o Programa de Proteção ao Comprador do Paypal pode te reembolsar. Então compre com tranquilidade.
+
+### Tutorial Paypal:
+Acesse [www.paypal.com](http://www.paypal.com), clique em criar conta **->** conta de compras. Insira um método de pagamento (o número de seu cartão e aguarde a verificação com a cobrança e estorno de um valor baixo de seu cartão), confirme o valor estornado no site.
+
+Se ainda assim não conseguir finalizar sua compra, ligue gratuitamente para 0800 047 4482, caso peçam seu código de utilização único, clique em fale conosco no rodapé da página inicial do PayPal e depois novamente em Fale Conosco, onde há um ícone de telefone.
 
     </div>
   </section>

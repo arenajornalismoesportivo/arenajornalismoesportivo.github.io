@@ -215,6 +215,7 @@ $baseurl: '{{ site.baseurl }}/images';
 	section, article {
 		&.special {
 			text-align: center;
+			list-style-type: none;
 		}
 	}
 
@@ -864,6 +865,7 @@ $baseurl: '{{ site.baseurl }}/images';
 		&.special {
 			background-color: _palette(accent6, bg);
 			box-shadow: none !important;
+			list-style-type: none;
 			color: _palette(accent6, fg-bold) !important;
 
 			&:hover {
@@ -1420,6 +1422,20 @@ $baseurl: '{{ site.baseurl }}/images';
 				}
 			}
 		}
+
+		.mainav li{
+			display: inline-block;
+					@media screen and (max-width: 720px) {
+				display: none;
+			}
+		}
+
+.menuToggle {
+			@media screen and (min-width: 720px) {
+			display: none;
+		}
+	}
+
 
 		nav {
 			height: inherit;

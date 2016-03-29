@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sobre a Arena
+title: A Arena
 ---
 
 ## Sobre
