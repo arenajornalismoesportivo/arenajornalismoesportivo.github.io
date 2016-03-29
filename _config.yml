@@ -1,10 +1,9 @@
 # Site settings
 title: Arena Jornalismo Esportivo
 description: |
-  Curso de extensão em Jornalismo Esportivo<br>
-  voltado para o mercado de trabalho -<br>
-  seja na TV, no impresso ou nas assessorias
-
+    Curso de extensão em Jornalismo Esportivo<br>
+    voltado para o mercado de trabalho -<br>
+    seja na TV, no impresso ou nas assessorias
 owner: Arena Jornalismo Esportivo # or company name
 first_published: 2016 # if migrating another site, the year of your first publish
 email: arenajornalismoesportivo@gmail.com
