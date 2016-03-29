@@ -1,16 +1,111 @@
 ---
-layout: home
+layout: landing
 ---
+				<!-- Banner -->
+					<section id="banner">
+						<div class="inner">
+							<h2>{{ site.title }}</h2>
+							<p>{{ site.description | markdownify }}</p>
+							<img src="logo.png" width="200px">
+							<ul class="actions">
+								<li><a href="inscrições.html" class="button special">Increva-se agora</a></li>
+							</ul>
+						</div>
+						<a href="#one" class="more scrolly">Saiba mais</a>
+					</section>
 
-<div class="home">
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-            {{ post.title }}
-            <div class="post-meta">{{ post.date | date: "%d/%m/%Y" }}</div>
-          </a>
-      </li>
-    {% endfor %}
-  </ul>
-</div>
+				<!-- One -->
+					<section id="one" class="wrapper style1 special" style="padding-bottom:0; background-color:#cbcbcb;">
+						<div class="inner" style="margin-bottom:0;">
+							<header class="major" style="margin-bottom:0;">
+								<h3 style="color: #000;">Faça com os melhores</h3>
+								<p style="color: #000;">Venha conhecer o time coms os melhores profissionais<br /> no mercado de notícias esportivas</p>
+
+							</header>
+
+						</div>
+						<img src="images/descricaocinza.png" alt="foto time" width="100%"/>
+					</section>
+
+				<!-- Two -->
+					<section id="two" class="wrapper alt style2">
+						<section class="spotlight">
+							<div class="image"><img src="images/sport1.jpg" alt="" /></div><div class="content">
+								<h2>Inscrições abertas<br /></h2>
+								<p>Próximas turmas de <strong>30/04 a 07/05</strong></p>
+								<ul class="actions">
+									<li><a href="inscrições.html" class="button special">Increva-se agora</a></li>
+								</ul>
+							</div>
+						</section>
+
+						<!--
+						<section class="spotlight">
+							<div class="image"></div><div class="content">
+								<h2><br /></h2>
+								<p></p>
+							</div>
+						</section>
+
+					-->
+
+						<section class="spotlight">
+							<div class="image"><img src="images/sport2.jpg" alt="" /></div><div class="content">
+								<h2>Entre em contato<br /></h2>
+								<p>Tel: +55 (21) 9-6908-7387 </p>
+							<p>Email: <a href="mailtoarenajornalismoesportivo@gmail.com"> arenajornalismoesportivo@gmail.com	</a></p>
+							<p> Rua Candelária, 83 - Centro, Rio de Janeiro/RJ </p>
+							</div>
+						</section>
+					</section>
+
+				<!-- Three
+					<section id="three" class="wrapper style3 special">
+						<div class="inner">
+							<header class="major">
+								<h2>Accumsan mus tortor nunc aliquet</h2>
+								<p>Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend<br />
+								fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.</p>
+							</header>
+							<ul class="features">
+								<li class="icon fa-paper-plane-o">
+									<h3>Arcu accumsan</h3>
+									<p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.</p>
+								</li>
+								<li class="icon fa-laptop">
+									<h3>Ac Augue Eget</h3>
+									<p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.</p>
+								</li>
+								<li class="icon fa-code">
+									<h3>Mus Scelerisque</h3>
+									<p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.</p>
+								</li>
+								<li class="icon fa-headphones">
+									<h3>Mauris Imperdiet</h3>
+									<p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.</p>
+								</li>
+								<li class="icon fa-heart-o">
+									<h3>Aenean Primis</h3>
+									<p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.</p>
+								</li>
+								<li class="icon fa-flag-o">
+									<h3>Tortor Ut</h3>
+									<p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.</p>
+								</li>
+							</ul>
+						</div>
+					</section>
+					-->
+
+				<!-- CTA -->
+					<section id="cta" class="wrapper style4">
+						<div class="inner">
+							<header>
+								<h2>Vagas Limitadas</h2>
+							</header>
+							<ul class="actions vertical">
+								<li><a href="inscrições.html" class="button special">Increva-se agora</a></li>
+								<li><a href="sobre.html" class="button fit">Sobre a Arena</a></li>
+							</ul>
+						</div>
+					</section>

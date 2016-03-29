@@ -1,137 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Arena</title>
-    <description>Curso de extensão em Jornalismo Esportivo voltado para o mercado de trabalho - seja na TV, no impresso ou nas assessorias
+    <title>Arena Jornalismo Esportivo</title>
+    <description>Curso de extensão em Jornalismo Esportivo&lt;br&gt;
+voltado para o mercado de trabalho -&lt;br&gt;
+seja na TV, no impresso ou nas assessorias
 </description>
-    <link>http://www.arenajornalismoesportivo.com.br//</link>
-    <atom:link href="http://www.arenajornalismoesportivo.com.br//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 22 Mar 2016 22:16:50 -0400</pubDate>
-    <lastBuildDate>Tue, 22 Mar 2016 22:16:50 -0400</lastBuildDate>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 28 Mar 2016 22:44:00 -0400</pubDate>
+    <lastBuildDate>Mon, 28 Mar 2016 22:44:00 -0400</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
-    
-      <item>
-        <title>2ª Edição do Curso de Jornalismo Esportivo</title>
-        <description>&lt;p&gt;Bem-vindos à segunda edição do curso de Extensão em Jornalismo Esportivo promovido pela Arena.&lt;/p&gt;
-
-&lt;p&gt;Nossa bem-sucedida primeira edição aconteceu entre dezembro e novembro de 2015, com taxa de aprovação de mais de 90% dos participantes.&lt;/p&gt;
-
-&lt;h2 id=&quot;lide&quot;&gt;Lide&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Quem?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;voc&quot;&gt;Você!&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;O que?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;curso-de-jornalismo-esportivo-20&quot;&gt;Curso de Jornalismo Esportivo 2.0&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Quando?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;e-0705-das-9h-s-17h&quot;&gt;30/04 e 07/05, das 9h às 17h&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Onde?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;rua-candelria-83---centro-rj&quot;&gt;Rua Candelária, 83 - Centro, RJ&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Como?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;ou-arenajornalismoesportivogmailcommailtoarenajornalismoesportivogmailcom&quot;&gt;21-9-6908-7387 ou &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#097;&amp;#114;&amp;#101;&amp;#110;&amp;#097;&amp;#106;&amp;#111;&amp;#114;&amp;#110;&amp;#097;&amp;#108;&amp;#105;&amp;#115;&amp;#109;&amp;#111;&amp;#101;&amp;#115;&amp;#112;&amp;#111;&amp;#114;&amp;#116;&amp;#105;&amp;#118;&amp;#111;&amp;#064;&amp;#103;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&quot;&gt;&amp;#097;&amp;#114;&amp;#101;&amp;#110;&amp;#097;&amp;#106;&amp;#111;&amp;#114;&amp;#110;&amp;#097;&amp;#108;&amp;#105;&amp;#115;&amp;#109;&amp;#111;&amp;#101;&amp;#115;&amp;#112;&amp;#111;&amp;#114;&amp;#116;&amp;#105;&amp;#118;&amp;#111;&amp;#064;&amp;#103;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&lt;/a&gt;&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Por quê?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;imergir-absorver-e-roubar-ideias-dos-melhores&quot;&gt;Imergir, absorver e roubar ideias dos melhores&lt;/h4&gt;
-
-&lt;h2 id=&quot;professores-confirmados&quot;&gt;Professores confirmados&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Lucio de Castro&lt;/strong&gt; - (Historiados, premiado repórter e documentarista com passagens por TV Globo, Sportv e ESPN) - O jornalismo investigativo, a variedade de opinião e o controle executivo da pauta.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Ledio Carmona&lt;/strong&gt; - (Jornalista e escritor com 30 anos de carreira e 7 Copas no currículo) - O comprometimento com a precisão e os desafios pela audiência.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Emanuel Rego&lt;/strong&gt; - (Atleta campeão olímpico e 10 vezes campeão mundial) - A visão do atleta sobre a cobertura da imprensa brasileira&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Paulo Vinicius Coelho, o PVC&lt;/strong&gt; - (Comentarista do FOX Sports, colunista da Folha de S.Paulo e blogueiro do UOL) - O limite entre o repórter e a fonte&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Carlos Simon&lt;/strong&gt; - (Árbitro das Copas de 2002, 2006 e 2010 e comentarista FOX Sports) - A transição dos estádios para os estúdios&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Leonardo Caetano&lt;/strong&gt; - (Diretor de Cermonia da Rio2016) - Comercial x Editorial&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Samy Vaisman&lt;/strong&gt; - (Assessor de imprensa da NBA e de atletas olímpicos) – A assessoria de imprensa no esporte&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Marcelo Carloto&lt;/strong&gt; - (Editor-chefe do Central FOX) - O texto na TV&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;pagamento-via-paypal&quot;&gt;Pagamento via Paypal&lt;/h2&gt;
-
-&lt;h3 id=&quot;o-que--o-paypal&quot;&gt;O que é o Paypal:&lt;/h3&gt;
-&lt;p&gt;É uma maneira muito segura de fazer pagamentos em milhões de sites.
-Não importa onde você faz suas compras, o Paypal não compartilha seus dados financeiros com os sites. E mais: se comprou algo e o produto não chegou ou não é como o vendedor descreveu, o Programa de Proteção ao Comprador do Paypal pode te reembolsar. Então compre com tranquilidade.&lt;/p&gt;
-
-&lt;h3 id=&quot;tutorial-paypal&quot;&gt;Tutorial Paypal:&lt;/h3&gt;
-&lt;p&gt;Acesse &lt;a href=&quot;http://www.paypal.com&quot;&gt;www.paypal.com&lt;/a&gt;, clique em criar conta &lt;strong&gt;-&amp;gt;&lt;/strong&gt; conta de compras. Insira um método de pagamento (o número de seu cartão e aguarde a verificação com a cobrança e estorno de um valor baixo de seu cartão), confirme o valor estornado no site.&lt;/p&gt;
-
-&lt;p&gt;Se ainda assim não conseguir finalizar sua compra, ligue gratuitamente para 0800 047 4482, caso peçam seu código de utilização único, clique em fale conosco no rodapé da página inicial do PayPal e depois novamente em Fale Conosco, onde há um ícone de telefone.&lt;/p&gt;
-
-&lt;h3 id=&quot;increva-se-pelo-formulrio-abaixo&quot;&gt;Increva-se pelo formulário abaixo&lt;/h3&gt;
-
-&lt;iframe src=&quot;https://docs.google.com/forms/d/1di2jHbVFYZyVzGG2hcHU5NZkdRaiXE3lUESfDXoJ8UQ/viewform?embedded=true&quot; width=&quot;100%&quot; height=&quot;3400&quot; frameborder=&quot;0&quot; marginheight=&quot;0&quot; marginwidth=&quot;0&quot;&gt;Carregando…&lt;/iframe&gt;
-
-</description>
-        <pubDate>Tue, 22 Mar 2016 19:00:00 -0400</pubDate>
-        <link>http://www.arenajornalismoesportivo.com.br//cursos/2016/03/22/edicaodois.html</link>
-        <guid isPermaLink="true">http://www.arenajornalismoesportivo.com.br//cursos/2016/03/22/edicaodois.html</guid>
-        
-        
-        <category>cursos</category>
-        
-      </item>
-    
-      <item>
-        <title>1ª Edição do Curso de Jornalismo Esportivo</title>
-        <description>&lt;h2 id=&quot;esse-curso-aconteceu-em-novembrodezembro-de-2015&quot;&gt;Esse curso aconteceu em novembro/dezembro de 2015&lt;/h2&gt;
-
-&lt;h3 id=&quot;quem-fez&quot;&gt;Quem fez&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;PVC, Paulo Vinícius Coelho, é jornalista do FOX Sports, Uol e Folha de S.Paulo&lt;/li&gt;
-  &lt;li&gt;João Guilherme tem mais de 25 anos de experiência em rádio e TV
-Carlos Simon apitou três Copas do Mundo e agora usa sua experiência como comentarista&lt;/li&gt;
-  &lt;li&gt;Marina Ferrari é apresentadora com passagens por Band e FOX Sports
-Roberta Setimi tem mestrado em em mídias sociais pelo Goldsmiths College, U of London&lt;/li&gt;
-  &lt;li&gt;Samy Vaisman é assessor de imprensa da NBA para o Brasil
-Leonardo Caetano é diretor de cerimônias de abertura e encerramento dos Jogos Olímpicos de 2016&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Tue, 01 Dec 2015 00:00:00 -0500</pubDate>
-        <link>http://www.arenajornalismoesportivo.com.br//cursos/2015/12/01/edicaoum.html</link>
-        <guid isPermaLink="true">http://www.arenajornalismoesportivo.com.br//cursos/2015/12/01/edicaoum.html</guid>
-        
-        
-        <category>cursos</category>
-        
-      </item>
     
   </channel>
 </rss>
