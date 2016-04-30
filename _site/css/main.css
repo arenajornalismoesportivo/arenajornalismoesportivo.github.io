@@ -1971,30 +1971,30 @@ button,
     background-color: #21b2a6;
     color: #c8ece9;
     		/*
-    
+
     			table {
     				tbody {
     					tr {
     						border-color: _palette($p, border);
-    
+
     						&:nth-child(2n + 1) {
     							background-color: _palette($p, border-bg);
     						}
     					}
     				}
-    
+
     				th {
     					color: _palette($p, fg-bold);
     				}
-    
+
     				thead {
     					border-color: _palette($p, border);
     				}
-    
+
     				tfoot {
     					border-color: _palette($p, border);
     				}
-    
+
     				&.alt {
     					tbody {
     						tr {
@@ -2005,9 +2005,9 @@ button,
     					}
     				}
     			}
-    
+
     		// Button
-    
+
     			input[type="submit"],
     			input[type="reset"],
     			input[type="button"],
@@ -2015,11 +2015,11 @@ button,
     			.button {
     				box-shadow: inset 0 0 0 2px _palette($p, border);
     				color: _palette($p, fg-bold);
-    
+
     				&:hover {
     					background-color: _palette($p, border-bg);
     				}
-    
+
     				&:active {
     					background-color: _palette($p, border2-bg);
     				}
@@ -2091,30 +2091,30 @@ button,
     background-color: #505393;
     color: #d3d4e4;
     		/*
-    
+
     			table {
     				tbody {
     					tr {
     						border-color: _palette($p, border);
-    
+
     						&:nth-child(2n + 1) {
     							background-color: _palette($p, border-bg);
     						}
     					}
     				}
-    
+
     				th {
     					color: _palette($p, fg-bold);
     				}
-    
+
     				thead {
     					border-color: _palette($p, border);
     				}
-    
+
     				tfoot {
     					border-color: _palette($p, border);
     				}
-    
+
     				&.alt {
     					tbody {
     						tr {
@@ -2125,9 +2125,9 @@ button,
     					}
     				}
     			}
-    
+
     		// Button
-    
+
     			input[type="submit"],
     			input[type="reset"],
     			input[type="button"],
@@ -2135,11 +2135,11 @@ button,
     			.button {
     				box-shadow: inset 0 0 0 2px _palette($p, border);
     				color: _palette($p, fg-bold);
-    
+
     				&:hover {
     					background-color: _palette($p, border-bg);
     				}
-    
+
     				&:active {
     					background-color: _palette($p, border2-bg);
     				}
@@ -2211,30 +2211,30 @@ button,
     background-color: #ffffff;
     color: #4E4852;
     		/*
-    
+
     			table {
     				tbody {
     					tr {
     						border-color: _palette($p, border);
-    
+
     						&:nth-child(2n + 1) {
     							background-color: _palette($p, border-bg);
     						}
     					}
     				}
-    
+
     				th {
     					color: _palette($p, fg-bold);
     				}
-    
+
     				thead {
     					border-color: _palette($p, border);
     				}
-    
+
     				tfoot {
     					border-color: _palette($p, border);
     				}
-    
+
     				&.alt {
     					tbody {
     						tr {
@@ -2245,9 +2245,9 @@ button,
     					}
     				}
     			}
-    
+
     		// Button
-    
+
     			input[type="submit"],
     			input[type="reset"],
     			input[type="button"],
@@ -2255,11 +2255,11 @@ button,
     			.button {
     				box-shadow: inset 0 0 0 2px _palette($p, border);
     				color: _palette($p, fg-bold);
-    
+
     				&:hover {
     					background-color: _palette($p, border-bg);
     				}
-    
+
     				&:active {
     					background-color: _palette($p, border2-bg);
     				}
@@ -2711,10 +2711,10 @@ body.is-loading #banner:after {
 /* Main */
 #main > header {
   padding: 12em 0 10em 0 ;
-  background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/images/talentos_juntos.png");
-  background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/images/talentos_juntos.png");
-  background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/images/talentos_juntos.png");
-  background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/images/talentos_juntos.png");
+  background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/images/talentos_juntos.jpg");
+  background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/images/talentos_juntos.jpg");
+  background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/images/talentos_juntos.jpg");
+  background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/images/talentos_juntos.jpg");
   background-attachment: fixed;
   height: 70vh;
   background-position: center center;
@@ -2798,10 +2798,10 @@ body.is-mobile #main > header {
 
 /* Landing */
 body.landing #page-wrapper {
-  background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/images/talentos_juntos.png");
-  background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/images/talentos_juntos.png");
-  background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/images/talentos_juntos.png");
-  background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/images/talentos_juntos.png");
+  background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/images/talentos_juntos.jpg");
+  background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/images/talentos_juntos.jpg");
+  background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/images/talentos_juntos.jpg");
+  background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/images/talentos_juntos.jpg");
   background-attachment: fixed;
   background-position: center center;
   background-repeat: no-repeat;
@@ -2814,10 +2814,10 @@ body.is-mobile.landing #page-wrapper {
   background: none; }
 body.is-mobile.landing #banner,
 body.is-mobile.landing .wrapper.style4 {
-  background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/images/talentos_juntos.png");
-  background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/images/talentos_juntos.png");
-  background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/images/talentos_juntos.png");
-  background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/images/talentos_juntos.png");
+  background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/images/talentos_juntos.jpg");
+  background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/images/talentos_juntos.jpg");
+  background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/images/talentos_juntos.jpg");
+  background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/images/talentos_juntos.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover; }

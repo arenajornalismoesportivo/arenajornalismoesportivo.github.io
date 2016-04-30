@@ -19,8 +19,6 @@ title: Curso 2.0
 
 * **Carlos Simon** (Árbitro das Copas de 2002, 2006 e 2010 e comentarista FOX Sports) - *A transição dos estádios para os estúdios*
 
-* **Lúcio de Castro** (Historiador, premiado repórter e documentarista com passagens por TV Globo, Sportv e ESPN) - *O jornalismo investigativo, a variedade de opinião e o controle executivo da pauta*
-
 * **Domitila Becker** (Apresentadora do programa É Gol, do Sportv) – *Da sala de aula para o estúdio – A chegada do jovem à TV*
 
 * **Emanuel Rego** (Atleta campeão olímpico e 10 vezes campeão mundial) - *A visão do atleta sobre a cobertura da imprensa brasileira*
@@ -30,5 +28,3 @@ title: Curso 2.0
 * **Leonardo Caetano** (Diretor de Cerimônia dos Jogos de 2016) - *Comercial x Editorial*
 
 * **Samy Vaisman** (Assessor de imprensa da NBA e de atletas olímpicos) – *A assessoria de imprensa no esporte*
-
-*A confirmar
